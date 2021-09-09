@@ -5,40 +5,45 @@ _(Scroll down for some reminder on cloning this repository and making commits)_
 
 ### Exercise 1.)
 - Create 3 variables:
-    - The best thing that you did
-    - 2
-    - 3
-- Then print out a string that says:  
-"blablabla"
+    - Your favourite food
+    - Your hobby
+    - The current day
+- Then print out a string that says something like:  
+   "Thursday was a good day, I ate pizza and played guitar"
+   _(hint: use the + operator)_
+
 
 ### Exercise 2.) 
+- Let's do some math! Print the results of the following operations:
+    - 59876 multiplied by 4359
+    - 88659 divided by 5498
+    - the remainder when you divide 867 by 23
+    - 5 raised to the power of 89 _(yes, Python can work with very large numbers!:))_
+
+
+### Exercise 3.)
+- Find out (with Python!) if the following things are true or false (just print the results)
+  - Is 3.14 equal to 3.14?
+  - Is 5 equal to '5'?
+  - Is 49 bigger than 4.9?
+  - Is True equal to 'true'?
+
+
+### Exercise 4.)
 - Practice VSCode! You will work in it a lot, so it's always good (of course this is something we cannot check here but we trust you:) )
   - Open a bunch of files
   - Open different workspaces
   - Create files and folders within VSCode
   - [Watch this video on getting started with VSCode](https://www.youtube.com/watch?v=S320N3sxinE&list=PLj6YeMhvp2S5UgiQnBfvD7XgOMKs3O_G6&index=1)
 
-### Exercise 3.)
-
-### Exercise 4.)
-
-### Exercise 5.)
-- Find out (with Python!) if the following things are true or false (just print the results)
-  - Is 3.14 equal to 3.14?
-  - 
-  - 
-  - Is 5 equal to '5'?
-  - Is True equal to 'true'?
-
-
 
 ## BONUS EXERCISES
-You don't have to do these if you don't want, just if you are up to the challenge  
-Also, don't be surprised if they are a bit harder than the normal exercises, you might need to do some research on your own to solve it.
+You don't have to do this if you don't want, just if you are up to the challenge  
+Also, don't be surprised if it is a bit harder than the normal exercises, you might need to do some research on your own to solve it.
 
 ### Bonus 1.)
-- Create 2 variables and use them to print the following sentence:  
-"The value of Pi is 3.14"
+- Create a variable to store the value of pi and use it to print the following sentence:  
+"The value of pi is 3.14"
 _(hint: joining floats and strings is not as simple as two strings, but you could google it, for example "how to join a float and a string in python")_
 
 
