@@ -20,16 +20,7 @@ _(Scroll down for some reminder on cloning this repository and making commits)_
     - the remainder when you divide 867 by 23
     - 5 raised to the power of 89 _(yes, Python can work with very large numbers!:))_
 
-
 ### Exercise 3.)
-- Find out (with Python!) if the following things are true or false (just print the results)
-  - Is 3.14 equal to 3.14?
-  - Is 5 equal to '5'?
-  - Is 49 bigger than 4.9?
-  - Is True equal to 'true'?
-
-
-### Exercise 4.)
 - Practice VSCode! You will work in it a lot, so it's always good (of course this is something we cannot check here but we trust you:) )
   - Open a bunch of files
   - Open different workspaces
